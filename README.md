@@ -1,2 +1,28 @@
-# Project-1-Stone---Paper---Scissor-
-I made the first which is (My Solution), then I Saw the (Instructor's Solution) to learn new ways of thinking, analyzing and programming. After that I practiced the (Instructor's Solution) well.
+# 🎮 Stone-Paper-Scissor Game
+
+## 📖 About the Project
+A simple command-line game where the player competes against the computer in the classic "Stone, Paper, Scissors".  
+The computer generates its choice randomly, and the game compares it with the player's choice to determine the winner.  
+This project is part of the Programming Advices training track with Dr. Mohamed Abou Hadhoud and is designed to practice:
+- Conditional statements
+- Loops
+- Random number generation
+- Functions
+
+---
+
+## 🛠 Built With
+- **C++**
+- `<iostream>`
+- `<cstdlib>` (for random number generation)
+- `<ctime>` (for seeding the random function)
+
+---
+
+## 🚀 Getting Started
+
+### 📥 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AhmedYaser-Mt/Stone-Paper-Scissor.git
+
